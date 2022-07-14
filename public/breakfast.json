@@ -1,0 +1,56 @@
+[
+    {
+        "id":"b1", 
+        "name":"Bagel and cream cheese",
+        "photo":"https://i.ibb.co/XbxXwmb/breakfast1.png",
+        "price": 550,
+        "description":"This meal will give you energy.",
+        "details":"A food is something that provides nutrients. Nutrients are substances that provide: energy for activity, growth, and all functions of the body such as breathing, digesting food, and keeping warm"
+    },
+    
+    {
+        "id":"b2", 
+        "name":"Breakfast Sanwich",
+        "photo":"https://i.ibb.co/xLdv0nk/breakfast2.png",
+        "price": 500,
+        "description":"A fruite salad with a lots of nutritions.",
+        "details":"A food is something that provides nutrients. Nutrients are substances that provide: energy for activity, growth, and all functions of the body such as breathing, digesting food, and keeping warm"
+    },
+    
+    {
+        "id":"b3", 
+        "name":"Baked Chicken",
+        "photo":"https://i.ibb.co/pvFpdmM/breakfast3.png",
+        "price": 290,
+        "description":"Once you try it you will remember its taste forever.",
+        "details":"A food is something that provides nutrients. Nutrients are substances that provide: energy for activity, growth, and all functions of the body such as breathing, digesting food, and keeping warm"
+    },
+
+    {
+        "id":"b4", 
+        "name":"Eggs Benedict",
+        "photo":"https://i.ibb.co/Qr6n4sF/breakfast4.png",
+        "price": 350,
+        "description":"Another typ of salad to freshen up",
+        "details":"A food is something that provides nutrients. Nutrients are substances that provide: energy for activity, growth, and all functions of the body such as breathing, digesting food, and keeping warm"
+    },
+
+    {
+        "id":"b5", 
+        "name":"Toast Croissant Fried Egg",
+        "photo":"https://i.ibb.co/w4Lh99x/breakfast5.png",
+        "price": 450,
+        "description":"A simple and delicious breakfast.",
+        "details":"A food is something that provides nutrients. Nutrients are substances that provide: energy for activity, growth, and all functions of the body such as breathing, digesting food, and keeping warm"
+    },
+
+    {
+        "id":"b6", 
+        "name":"Frien Egg Toast Bunch",
+        "photo":"https://i.ibb.co/YZh1RY0/breakfast6.png",
+        "price": 500,
+        "description":"Bread, meat, fried eggs, vegetables like tomato, lattuce",
+        "details":"A food is something that provides nutrients. Nutrients are substances that provide: energy for activity, growth, and all functions of the body such as breathing, digesting food, and keeping warm"
+    }
+
+]

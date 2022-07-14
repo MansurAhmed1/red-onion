@@ -1,0 +1,37 @@
+.meal-detail{
+    min-height:300px;
+    position:relative;
+    margin-top:100px;
+}
+
+.single-meal {
+    width: 70%;
+    margin: 0 auto;
+    align-items: center;
+    gap: 30px;
+}
+
+.single-meal p{
+    text-align: justify;
+}
+
+.single-meal img{
+    width: 48%;
+    border: 0;
+    margin: 0 auto;
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+@media only screen and (max-width:1000px){
+    .single-meal {
+        flex-direction: column;
+    }
+    .single-meal img{
+        width: 100%;
+    }
+}

@@ -1,0 +1,21 @@
+.home-icon{
+    top: 70px; 
+    left: 20px; 
+    background-color: crimson; 
+    color: white; 
+    border-radius: 50%; 
+    cursor:pointer; 
+    position:fixed;
+    width: 50px;
+}
+
+.home-icon:hover{
+    background-color: white;
+    color: crimson;
+    border: 2px solid crimson;
+    transition: 0.5s;
+}
+
+.icon:hover p{
+    display: block;
+}

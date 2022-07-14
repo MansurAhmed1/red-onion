@@ -1,0 +1,38 @@
+.service{
+    width: 320px;
+    padding: 10px;
+    border-radius: 30px;
+    margin:10px auto;
+    overflow: hidden;
+}
+.service:hover img{
+    transform: scale(1.02);
+    transition: 0.5s ease-in-out;
+}
+
+.service:nth-child(2){
+    box-shadow: 2px 2px 15px rgba(197, 217, 242, 0.58);
+}
+
+.service-info{
+    margin-top: 15px;
+    padding: 5px;
+    gap: 10px;
+}
+
+.service-info img{
+    width: 45px;
+    height: 45px;
+}
+
+.service-info p{
+    font-size: 14px;
+    line-height: 15px;
+    color: rgb(95, 91, 91);
+}
+
+@media only screen and (max-width:500px){
+    .service{
+        width: 300px;
+    }
+}

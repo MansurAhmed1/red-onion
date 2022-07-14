@@ -1,0 +1,28 @@
+footer{
+    color: white;
+    padding: 20px 30px;
+    background-color: #07121c;
+    width: 100%;
+}
+
+footer ul li{
+    padding: 7px 10px;
+    font-size: 15px;
+    list-style: none;
+}
+
+footer ul li:hover{
+    color: rgb(238, 102, 129);
+    cursor: pointer;
+}
+
+@media only screen and (max-width:800px){
+    div{
+        margin: 15px 0;
+        flex-direction: column;
+    }
+
+    footer p{
+        padding-left: 40px;
+    }
+}

@@ -1,0 +1,25 @@
+.meal{
+    width: 300px;
+    border-radius: 10px;
+    padding: 0 10px;
+    text-align: center;
+    margin: auto;
+    padding: 10px auto;
+}
+.meal:hover{
+    box-shadow: 2px 2px 15px #999;
+    transition: 0.3s ease-in-out;
+}
+.price{
+    padding-top: 10px;
+    color:  crimson;
+}
+.meal p{
+    font-size: 14px;
+    padding: 0 30px;
+}
+.price span{
+    color: black;
+    font-size: 23px;
+    font-weight: 600;
+}

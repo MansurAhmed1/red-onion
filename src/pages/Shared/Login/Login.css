@@ -1,0 +1,26 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 30px auto;
+    position:relative;
+}
+form input{
+    width: 350px;
+    margin: 7px auto;
+}
+form input:focus{
+    width: 350px;
+}
+
+form input[type=submit]{
+    color: white;
+    background-color: crimson;
+}
+form input[type=submit]:hover{
+    border: 2px solid crimson; 
+    color: crimson;
+    background-color: white; 
+    transition: 0.5s ease-in;
+}
